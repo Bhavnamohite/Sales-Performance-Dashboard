@@ -1,4 +1,4 @@
-# Sales Performance Dashboard (Advanced BI Portfolio)
+# Sales Performance Dashboard 
 
 ## 📌 Project Objective
 This project transforms raw, multi-year sales data into a dynamic, corporate-ready Management Information Systems (MIS) report. Moving away from static spreadsheets, it implements structured data modeling, automated metrics calculation, and an interactive presentation layer designed to track end-to-end profitability, volume trends, and product performance.
